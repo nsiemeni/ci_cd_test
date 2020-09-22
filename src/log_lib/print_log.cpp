@@ -1,7 +1,7 @@
 
 
 #include <iostream>
-#include<FirstCMakeConfig.h>
+#include<FirstOrganizedCMakeConfig.h>
 #include<log_lib/print_log.h>
 
 void hello_world() {
@@ -9,5 +9,5 @@ void hello_world() {
 }
 
 void print_version() {
-	std::cout << "project version is "	<< FirstCMake_VERSION_MAJOR<< "." <<FirstCMake_VERSION_MINOR<< std::endl;
+	std::cout << "project version is "	<< FirstOrganizedCMake_VERSION_MAJOR << "." << FirstOrganizedCMake_VERSION_MINOR << std::endl;
 }
