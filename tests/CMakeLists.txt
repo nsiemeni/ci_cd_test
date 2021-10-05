@@ -1,3 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+
+if(NOT TARGET loglib)
+project(FirstOrganizedCMake VERSION 1.0)
+find_package(FirstOrganizedCMake REQUIRED CONFIG)
+enable_testing()
+endif()
 
 add_executable(test_hello test_hello.cpp)
 target_link_libraries(test_hello PUBLIC loglib)

@@ -1,5 +1,5 @@
 // options and settings exported 
 // to source code
 
-#define FirstOrganizedCMake_VERSION_MAJOR @FirstOrganizedCMake_VERSION_MAJOR@ 
-#define FirstOrganizedCMake_VERSION_MINOR @FirstOrganizedCMake_VERSION_MINOR@
+#define FirstCMake_VERSION_MAJOR @FirstCMake_VERSION_MAJOR@ 
+#define FirstCMake_VERSION_MINOR @FirstCMake_VERSION_MINOR@

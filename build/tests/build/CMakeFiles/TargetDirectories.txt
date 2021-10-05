@@ -1,0 +1,5 @@
+O:/FirstOrganizedCMake/build/tests/buil/CMakeFiles/test_hello.dir
+O:/FirstOrganizedCMake/build/tests/buil/CMakeFiles/test_version.dir
+O:/FirstOrganizedCMake/build/tests/buil/CMakeFiles/RUN_TESTS.dir
+O:/FirstOrganizedCMake/build/tests/buil/CMakeFiles/ALL_BUILD.dir
+O:/FirstOrganizedCMake/build/tests/buil/CMakeFiles/ZERO_CHECK.dir
